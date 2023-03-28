@@ -10,7 +10,17 @@ This is a simple student Management which is implemented by using Spring ,Spring
 * Used Depensency injection.
 
 ### Screenshots
-<img src="https://github.com/Annesha003/Student-Management-System/blob/master/spring1.jpg">
+### index.jsp page:-
+<img src="https://github.com/Annesha003/Student-Management-System/blob/master/Spring1.jpg">
+
+### data entry page:-
 <img src="https://github.com/Annesha003/Student-Management-System/blob/master/Spring2.jpg">
+
+### List of all students page:-
 <img src="https://github.com/Annesha003/Student-Management-System/blob/master/Spring3.jpg">
+
+### Edit page:-
 <img src ="https://github.com/Annesha003/Student-Management-System/blob/master/Spring4.jpg">
+
+### Page after deleting:-
+<img src="https://github.com/Annesha003/Student-Management-System/blob/master/spring5.jpg">
